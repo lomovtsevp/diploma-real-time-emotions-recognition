@@ -1,4 +1,4 @@
-I want to share with you my Bachelor's qualification article.
+<font size=5>I want to share with you my Bachelor's qualification article.
 
 Task: To classify human's emotion during his activity in real-time. Create an interface.
 
